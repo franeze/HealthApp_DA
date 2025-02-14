@@ -2,7 +2,7 @@
 
 ### Smart Strategies for a Wellness Technology Company: Analyzing Data from a Health and Fitness Device
 
-<div style="text-align: center;"><img src="Pictures/Wellness_LOGO.png" alt="Example Image" width="300"/></div>
+<div style="text-align: center;"><img src="Wellness_LOGO.png" alt="Example Image" width="300"/></div>
 
 #### Scenario 
 
